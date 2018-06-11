@@ -19,7 +19,7 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/wanshitaotao)
+* GitHub：[@Huang Tao tao](https://github.com/wanshitaotao)
 
 ## Skill Keywords
 
