@@ -1,30 +1,25 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 代码世界里搬砖的小兵
+keywords: Huang taotao, 黄涛涛
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+不求改变世界，但求改变自己
 
 仰慕「优雅编码的艺术」。
 
 ## 坚信
 
-* 熟能生巧
+* 坚持 坚持 坚持  没有什么困难是跨不过去
 * 努力改变人生
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
-* 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* GitHub：[@mzlogin](https://github.com/wanshitaotao)
 
 ## Skill Keywords
 
