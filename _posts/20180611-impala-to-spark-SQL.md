@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hbase impala VS carbonData Spark-SQL
-categories: [cate1, cate2]
+categories: Vim
 description: 底层数据存储改变
 keywords: impala, carbonData
 ---
